@@ -1,0 +1,9 @@
+
+.completed {
+    color: rgb(214, 79, 67);
+    background-color: rgb(68, 137, 183);
+    text-decoration: line-through;
+}
+ul.li{
+    list-style-type: none;
+}
